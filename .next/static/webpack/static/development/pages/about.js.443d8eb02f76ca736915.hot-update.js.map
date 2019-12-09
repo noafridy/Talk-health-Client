@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/about.js.443d8eb02f76ca736915.hot-update.js","sources":["webpack:///./pages/tal.js"],"sourcesContent":["import React from 'react';\n\nexport default function Tal({lname}) {\n    return 'hello' + lname;\n}"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAEA;AAAA;AACA;AACA;;;;A","sourceRoot":""}
